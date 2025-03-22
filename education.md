@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 2. Education
+title: Education
 permalink: /education/
+nav-include: true
+nav-order: 2
 ---
 
 # 🎓 Education

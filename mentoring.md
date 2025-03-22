@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentoring & Teaching
+title: 6. Mentoring
 permalink: /mentoring/
 ---
 

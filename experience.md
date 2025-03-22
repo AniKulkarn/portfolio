@@ -8,11 +8,12 @@ permalink: /experience/
 
 ---
 
-## 🏫 University of Southern California (USC)
-### 👨‍🏫 Graduate Teaching Assistant — Leading & Managing Engineering Teams  
+## University of Southern California (USC)
+### Graduate Teaching Assistant — Leading & Managing Engineering Teams  
 *Aug 2024 – Present · USC Viterbi School of Engineering*  
 - Designed case study on Tata Group’s leadership and mission strategy.  
 - Managed IT infrastructure and assisted with grading and discussion sessions for 17 students.
+<img src="assets/img/ISE544_FA24_classphoto.jpg" alt="Class Photo" width="500"/>
 
 
 ### 🎯 Digital Fabrication Solution Architect — Baum Family Maker Space  

@@ -2,8 +2,8 @@
 layout: page
 permalink: /
 ---
-
-<h1>Hello, I'm Anish.</h1>
+<h1>About me</h1>
+<h2>Hello, I'm Anish.</h2>
 <img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Profile Picture" width="200"/>
 
 I’m a multidisciplinary product engineer with experience in:

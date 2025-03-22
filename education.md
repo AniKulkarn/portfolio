@@ -8,7 +8,7 @@ permalink: /education/
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/usc.png" alt="USC Logo" width="500"/>
 ## University of Southern California
-**Master’s in Product Development Engineering**  
+**Master of Science in Product Development Engineering (Systems Focused)**  
 *August 2023 – May 2025*  
 **GPA**: 3.78 / 4  
 - Coursework:
@@ -23,7 +23,7 @@ permalink: /education/
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/viit.png" alt="VIIT Logo" width="150"/>
 ## Vishwakarma Institute of Information Technology
-**Bachelor’s in Electronics and Telecommunication Engineering**  
+**Bachelor of Technology in Electronics and Telecommunication Engineering**  
 *August 2017 – May 2021*  
 **GPA**: 8.39 / 10  
 - Major Coursework:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leadership & Strategy
+title: Strategy
 permalink: /leadership/
 ---
 

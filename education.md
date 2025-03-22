@@ -6,7 +6,7 @@ permalink: /education/
 
 # 🎓 Education
 
-<img src="/assets/img/usc.png" alt="USC Logo" width="500"/>
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc.png" alt="USC Logo" width="500"/>
 ## University of Southern California
 **Master’s in Product Development Engineering**  
 *August 2023 – May 2025*  
@@ -21,7 +21,7 @@ permalink: /education/
 
 ---
 
-<img src="/assets/img/viit.png" alt="VIIT Logo" width="150"/>
+<img src="https://anikulkarn.github.io/portfolio/assets/img/viit.png" alt="VIIT Logo" width="150"/>
 ## Vishwakarma Institute of Information Technology
 **Bachelor’s in Electronics and Telecommunication Engineering**  
 *August 2017 – May 2021*  

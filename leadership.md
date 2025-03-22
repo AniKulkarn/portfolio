@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5. Strategy
+title: Strategy
 permalink: /leadership/
 ---
 

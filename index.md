@@ -3,7 +3,7 @@ layout: home
 ---
 
 # Hello, I'm Anish.
-<img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.png" alt="Profile Picture" width="200"/>
+<img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Profile Picture" width="200"/>
 
 I’m a multidisciplinary product engineer with experience in:
 

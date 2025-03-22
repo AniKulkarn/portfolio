@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: null
+permalink: /
 ---
 
 # Hello, I'm Anish.

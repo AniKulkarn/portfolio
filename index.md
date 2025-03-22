@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "1. Home"
 ---
 
 # Hello, I'm Anish.

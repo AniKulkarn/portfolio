@@ -4,7 +4,7 @@ title: null
 permalink: /
 ---
 
-# Hello, I'm Anish.
+## Hello, I'm Anish.
 <img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Profile Picture" width="200"/>
 
 I’m a multidisciplinary product engineer with experience in:

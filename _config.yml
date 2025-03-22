@@ -3,7 +3,7 @@ email: ackulkar@usc.edu
 description: >-
   Portfolio website of Anish Kulkarni, a multidisciplinary engineer and product manager.
 baseurl: "" 
-url: "https://anikulkarn.github.io/anishkulkarni.github.io/"
+url: "https://anikulkarn.github.io/portfolio"
 
 theme: minima
 

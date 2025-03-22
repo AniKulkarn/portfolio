@@ -17,7 +17,7 @@ I’m **Anish Kulkarni**, a multidisciplinary product development engineer with 
 
 ### 🔗 Explore My Work
 
-- [📚 Education]({{ site.baseurl }}/education)
+- [📚 Education](education)
 - [💼 Experience](experience)
 - [🧠 Skills](skills)
 - [⚙️ Projects](projects)

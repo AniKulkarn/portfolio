@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 ---
 
 # Hello, I'm Anish.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Domains of Expertise
+title: 7. Domains
 permalink: /domains/
 ---
 

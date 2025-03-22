@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 3. Experience
+title: Experience
 permalink: /experience/
+nav-include: true
+nav-order: 3
 ---
 
 # 💼 Professional Experience

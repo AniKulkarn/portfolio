@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 7. Domains
+title: Domains
 permalink: /domains/
+nav-include: true
+nav-order: 7
 ---
 
 # 🌐 Domains of Expertise

@@ -6,10 +6,6 @@ nav-include: true
 nav-order: 3
 ---
 
-# 💼 Professional Experience
-
----
-
 <h2>
   <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   University of Southern California – Viterbi School of Engineering
@@ -193,12 +189,40 @@ nav-order: 3
 
 ---
 
-## 🧪 Tata Institute of Fundamental Research (TIFR)
-### 🔬 Research Intern — Analog Electronics  
-*May 2020 – Jun 2021 · Mumbai, India*  
-- Designed low-noise JFET amplifier with 98.7% SPICE simulation accuracy.  
-- Reduced power supply noise by 9x for cryogenic RTD sensor preamps.  
-- Created PCB schematics using KiCad and validated models using LTSpice.
+<h2>
+  <img src="{{ site.baseurl }}/assets/img/tifr_logo.png" alt="TIFR Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  Tata Institute of Fundamental Research (TIFR) – Nuclear Physics Laboratory
+</h2>
+
+<em>May 2020 – Jun 2021 · Mumbai, India · Internship</em>  
+<em>Role: Research Intern – Analog Electronics (Neutrinoless Double Beta Decay Lab)</em>  
+<em>Designed low-noise analog systems for cryogenic instrumentation and radiation detector research — 
+<a href="https://www.tifr.res.in/dnap/nuclear-physics-laboratory.html" target="_blank">tifr.res.in/dnap/nuclear-physics-laboratory</a></em>
+
+<details>
+<summary><strong>Technical Contributions</strong></summary>
+
+<ul>
+  <li><strong>Derived and validated a mathematical model</strong> for a low-noise JFET amplifier using frequency-dependent gain and noise equations — achieved <strong>98.7% SPICE simulation accuracy and concluding that drain noise does not affect output noise as much as gate and source noise.</strong>.</li>
+  <li><strong>Designed preamplifier schematics</strong> for RTD-based cryogenic sensors using KiCad and LTSpice — achieved stable signal amplification at <strong>120 Kelvin</strong>.</li>
+  <li><strong>Reduced power supply noise</strong> from <strong>19nV/√Hz to 2nV/√Hz</strong> using the derived mathematical model to stabilize instrumentation for weak signal detection.</li>
+  <li><strong>Built a unity-gain, low-power voltage regulator</strong> with ultra-high impedance JFETs and simulation-backed biasing to isolate gate and source noise in cryogenic front-end electronics.</li>
+  <li><strong>Delivered design documentation</strong> and test data to senior scientists for research publications in nuclear physics instrumentation.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Scientific Outcomes & Collaboration</strong></summary>
+
+<ul>
+  <li><strong>Worked with a multidisciplinary team</strong> of physicists and electronics researchers focused on the Neutrinoless Double Beta Decay (NDBD) project — a frontier area in particle physics.</li>
+  <li><strong>Collaborated directly with cryogenic system engineers</strong> to align electronics performance with experimental thermal and noise constraints.</li>
+  <li><strong>Validated simulated designs with foundational mathematical models programmed in Python</strong> under guidance from TIFR senior researchers to support detector calibration experiments.</li>
+  <li><strong>Contributed to signal integrity optimization</strong> in ultra-low noise analog front ends for rare-event detection experiments.</li>
+</ul>
+
+</details>
 
 ---
 

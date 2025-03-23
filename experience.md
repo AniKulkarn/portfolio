@@ -28,37 +28,41 @@ nav-order: 3
 ---
 
 ## 🏭 Crest Test Systems Pvt. Ltd.  
-*Aug 2021 – Jul 2023 · Pune, India*  
-_Roles: Product Manager · Design Engineer · Commissioning Supervisor_
+<em>Aug 2021 – Jul 2023 · Pune, India</em>  
+<em>Roles: Product Manager · Design Engineer · Commissioning Lead</em>
 
 <details>
 <summary><strong>Technical Achievements</strong></summary>
 
-- Developed and shipped **19+ variants** of high-voltage testers (up to 200kV), integrating modular and reusable designs to support scalability and field deployment.  
-- Designed diagnostic-enabled **high-voltage probes** with safety interlocks and dielectric material studies — reduced setup time from **20 minutes to 5 minutes**.  
-- Built custom **test probes** for motor winding, vacuum, and gas circuit breaker testing — machined in Teflon and Derline to ensure HV safety margins.  
-- Designed **self-diagnostic PCBs** with 20ms analog comparator-based insulation breakdown detection using opto-isolated microcontroller logic.  
-- Developed **contact resistance meter** with 500A DC source and Kelvin's Bridge — achieved **97% accuracy** in micro/milliohm range.  
-- Applied **MBSE + parametric CAD** for rapid product customization — $6K configurations built in **under 3 days**.  
-- Reduced external wiring by **70%** by designing compact PCBs with UART, SPI, and I2C embedded communication.  
-- Built and validated a **10A constant current source** with analog feedback and 0.1% error, integrated into a CNC-controlled laser system.  
-- Achieved **±0.5% accuracy** through PLC-based ISO/IEC-compliant automated calibration routines for HV testers.  
-- Redesigned HMI UX for system diagnostics, modularity, and analytics — improved customer satisfaction by **80%**.
+<ul>
+  <li><strong>Developed and shipped 19+ variants</strong> of high-voltage testers (up to 200kV), integrating modular and reusable designs to support scalability and field deployment.</li>
+  <li><strong>Designed diagnostic-enabled high-voltage probes</strong> with safety interlocks and dielectric material studies — reduced setup time from <strong>20 minutes to 5 minutes</strong>.</li>
+  <li><strong>Built custom test probes</strong> for motor winding, vacuum, and gas circuit breaker testing — machined in Teflon and Derline to ensure HV safety margins.</li>
+  <li><strong>Designed self-diagnostic PCBs</strong> with 20ms analog comparator-based insulation breakdown detection using opto-isolated microcontroller logic.</li>
+  <li><strong>Developed contact resistance meter</strong> with 500A DC source and Kelvin's Bridge — achieved <strong>97% accuracy</strong> in micro/milliohm range.</li>
+  <li><strong>Applied MBSE + parametric CAD</strong> for rapid product customization — $6K configurations built in <strong>under 3 days</strong>.</li>
+  <li><strong>Reduced external wiring by 70%</strong> by designing compact PCBs with UART, SPI, and I2C embedded communication.</li>
+  <li><strong>Built and validated 10A constant current source</strong> with analog feedback and 0.1% error, integrated into a CNC-controlled laser system.</li>
+  <li><strong>Achieved ±0.5% accuracy</strong> through PLC-based ISO/IEC-compliant automated calibration routines for HV testers.</li>
+  <li><strong>Redesigned HMI UX</strong> for system diagnostics, modularity, and analytics — improved customer satisfaction by <strong>80%</strong>.</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>Managerial & Business Achievements</strong></summary>
 
-- Owned the **product roadmap** for HV testers, aligned with VOC feedback from 5+ Tier-1 OEM clients (ABB, Siemens, Alstom, Schneider, Crompton).  
-- Secured **first 10+ customers** in under 1.5 years by coordinating GTM strategy with sales, marketing, and support teams.  
-- Drove **10% YoY revenue growth** and improved **gross margin by 15%** through ERP automation and pricing optimization.  
-- Integrated BOM + ERP systems to automate part costing and reduce quoting time for $200K configurations by **30+ days**.  
-- Coordinated between hardware, software, and mechanical teams — defined a **Scrum Master role** and improved iteration speed by **30%**.  
-- Created ERP logic for raw material planning, MOQ/MSQ, SKU generation — scaled production of **19 HV testers** + **9 resistance meters**.  
-- Led on-site commissioning for 5+ national and 1 international client — **reduced debugging time by 70%** using automated diagnostics.  
-- Delivered SOPs, wiring diagrams, and installation guides — cut customer dependence and **reduced service calls by 90%**.  
-- Conducted team training and vendor onboarding to streamline operations across production and field deployments.
+<ul>
+  <li><strong>Owned the product roadmap</strong> for HV testers, aligned with VOC feedback from 5+ Tier-1 OEM clients (ABB, Siemens, Alstom, Schneider, Crompton).</li>
+  <li><strong>Secured first 10+ customers</strong> in under 1.5 years by coordinating GTM strategy with sales, marketing, and support teams.</li>
+  <li><strong>Drove 10% YoY revenue growth</strong> and improved <strong>gross margin by 15%</strong> through ERP automation and pricing optimization.</li>
+  <li><strong>Integrated BOM + ERP systems</strong> to automate part costing and reduce quoting time for $200K configurations by <strong>30+ days</strong>.</li>
+  <li><strong>Defined a dedicated Scrum Master role</strong> to coordinate between hardware, software, and mechanical teams — improved iteration speed by <strong>30%</strong>.</li>
+  <li><strong>Created ERP logic</strong> for raw material planning, MOQ/MSQ, SKU generation — scaled production of <strong>19 HV testers</strong> + <strong>9 resistance meters</strong>.</li>
+  <li><strong>Led on-site commissioning</strong> for 5+ national and 1 international client — <strong>reduced debugging time by 70%</strong> using automated diagnostics.</li>
+  <li><strong>Delivered SOPs, wiring diagrams, and installation guides</strong> — reduced service calls by <strong>90%</strong> and increased customer independence.</li>
+  <li><strong>Conducted technical training</strong> for installation contractors, internal team members, and local vendors to ensure reliable deployment and handover.</li>
+</ul>
 
 </details>
 
@@ -66,34 +70,34 @@ _Roles: Product Manager · Design Engineer · Commissioning Supervisor_
 <summary><strong>Gallery: Systems Designed, Built & Delivered</strong></summary>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSparametricCAD.jpg" alt="3D Render of Motor Testing System" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Parametric CAD:** Modular internal architecture designed for HV insulation, scalability, and safe operator servicing - used for design approval process (DAP)
+<li><strong>Parametric CAD:</strong> Modular internal architecture designed for HV insulation, scalability, and safe operator servicing — used for design approval process (DAP)</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSlayout.jpg" alt="3D Render of factory layout" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Factory layout:** Testing cell layout with integrated safety interlocks, PC-HMI zone, and isolation boundaries
+<li><strong>Factory layout:</strong> Testing cell layout with integrated safety interlocks, PC-HMI zone, and isolation boundaries</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_PCB.jpg" alt="Diagnostic PCB" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**PCB with self-diagnostics:** Self-diagnostic controller board with opto-isolated trip logic and analog feedback for insulation testing
+<li><strong>PCB with self-diagnostics:</strong> Self-diagnostic controller board with opto-isolated trip logic and analog feedback for insulation testing</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_CRM.jpg" alt="Contact Resistance Tester" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Contact Resistance Meter:** 500A contact resistance meter with HMI control and diagnostics — configured for rapid deployment to Tier-1 OEM client (Schneider)
+<li><strong>Contact Resistance Meter:</strong> 500A contact resistance meter with HMI control and diagnostics — configured for rapid deployment to Tier-1 OEM client (Schneider)</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_hipot.jpg" alt="Hipot Tester" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**AC Hipot Tester:** Fully customized 10kV/500mA insulation tester with analog controls & interlocks (export quality - for sale in USA and Australia)
+<li><strong>AC Hipot Tester:</strong> Fully customized 10kV/500mA insulation tester with analog controls & interlocks (export quality — for sale in USA and Australia)</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_VFD.jpg" alt="VFD Integration" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**VFD Integration:** High-current control using variable frequency drive for automated motor testing
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSVFD.jpg" alt="VFD Integration" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>VFD Integration:</strong> High-current control using variable frequency drive for automated motor testing</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_busbars.jpg" alt="Power Bus Bars" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Power Bus Bars:** High current terminals & busbars custom-designed for +1000A current with active and passive short-circuit protection and earthing connectors
+<li><strong>Power Bus Bars:</strong> High current terminals & busbars custom-designed for +1000A current with short-circuit protection and earthing connectors</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_relays.jpg" alt="Relay bank" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Relay Bank:** Modular relay/optocoupler boards mounted on custom rack — enabling real-time multi-channel control and sensing using PLC
+<li><strong>Relay Bank:</strong> Modular relay/optocoupler boards mounted on custom rack — enabling real-time multi-channel control and sensing using PLC</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSfabrication.jpg" alt="Fabrication Inspection" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-**Fabrication:** Fabrication inspection of motor tester enclosure with local suppliers from India
+<li><strong>Fabrication:</strong> Fabrication inspection of motor tester enclosure with local suppliers in India</li>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSready.jpg" alt="Final Motor Testing System" style="border-radius: 8px; max-width: 25%; margin-top: 1.5rem;" />
-**Ready-to-ship System:** Final motor tester cabinet with lockable panel access and product-standardized color scheme (accepted by Tier-1 OEMs)
+<li><strong>Ready-to-ship System:</strong> Final motor tester cabinet with lockable panel access and product-standardized color scheme (accepted by Tier-1 OEMs)</li>
 
 </details>
 

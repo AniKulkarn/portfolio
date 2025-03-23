@@ -45,8 +45,6 @@ _Roles: Product Manager · Design Engineer · Commissioning Supervisor_
 - Achieved **±0.5% accuracy** through PLC-based ISO/IEC-compliant automated calibration routines for HV testers.  
 - Redesigned HMI UX for system diagnostics, modularity, and analytics — improved customer satisfaction by **80%**.
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest-technical.jpg" alt="Technical achievement at Crest" style="border-radius: 8px; max-width: 100%; margin-top: 1rem;" />
-
 </details>
 
 <details>
@@ -62,12 +60,10 @@ _Roles: Product Manager · Design Engineer · Commissioning Supervisor_
 - Delivered SOPs, wiring diagrams, and installation guides — cut customer dependence and **reduced service calls by 90%**.  
 - Conducted team training and vendor onboarding to streamline operations across production and field deployments.
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest-commissioning.jpg" alt="Commissioning activity at customer site" style="border-radius: 8px; max-width: 100%; margin-top: 1rem;" />
-
 </details>
 
 <details>
-<summary><strong>📸 Gallery: Systems Designed, Built & Delivered</strong></summary>
+<summary><strong>Gallery: Systems Designed, Built & Delivered</strong></summary>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSparametricCAD.jpg" alt="3D Render of Motor Testing System" style="border-radius: 8px; max-width: 100%; margin-top: 1rem;" />
 **Parametric CAD:** Modular internal architecture designed for HV insulation, scalability, and safe operator servicing - used for design approval process (DAP)

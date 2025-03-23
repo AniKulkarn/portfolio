@@ -29,7 +29,8 @@ nav-order: 3
 
 ## 🏭 Crest Test Systems Pvt. Ltd.  
 <em>Aug 2021 – Jul 2023 · Pune, India</em>  
-<em>Roles: Product Manager · Design Engineer · Commissioning Lead</em>
+<em>Roles: Product Manager · Design Engineer · Commissioning Lead</em>  
+<em>Manufacturer of high-voltage electrical test systems for switchgear, motor, and transformer industries — <a href="https://www.crestech.co.in" target="_blank">crestech.co.in</a></em>
 
 <details>
 <summary><strong>Technical Achievements</strong></summary>

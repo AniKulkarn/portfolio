@@ -196,7 +196,7 @@ nav-order: 3
 
 <em>May 2020 – Jun 2021 · Mumbai, India · Internship</em>  
 <em>Role: Research Intern – Analog Electronics (Neutrinoless Double Beta Decay Lab)</em>  
-<em>Designed low-noise analog systems for cryogenic instrumentation and radiation detector research — 
+<em>One of India’s Premier research institutions dedicated to the study of fundamental sciences. — 
 <a href="https://www.tifr.res.in/dnap/nuclear-physics-laboratory.html" target="_blank">tifr.res.in/dnap/nuclear-physics-laboratory</a></em>
 
 <details>
@@ -226,16 +226,85 @@ nav-order: 3
 
 ---
 
-## 🧠 Encora (Machine Learning Project)
-### 📊 Business Analytics Intern  
-*Sep 2020 – Feb 2021 · Pune, India*  
-- Built a neural network model (94% accuracy) for email marketing segmentation.  
-- Delivered full project with implementation manual using Keras and Jupyter Notebook.
+<h2>
+  <img src="{{ site.baseurl }}/assets/img/encora_logo.png" alt="Encora Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  Excellarate (formerly Synerzip)
+</h2>
+
+<em>Apr 2020 – Jul 2020 · Pune, India · Internship</em>  
+<em>Role: Business Analytics & Machine Learning Intern</em>  
+<em>Wayne, PA-based firm specializing in Software Product Engineering and Agile consultancy. —
+<a href="https://dev.excellarate.com/news/synerzip-the-agile-product-development/" target="_blank">dev.excellarate.com/news/synerzip-the-agile-product-development/</a></em>
+
+<details>
+<summary><strong>Technical Contributions</strong></summary>
+
+<ul>
+  <li><strong>Built a 3-class classification neural network</strong> using Keras and TensorFlow to segment leads into “Good,” “Bad,” and “Unknown” categories based on email marketing engagement data.</li>
+  <li><strong>Processed and cleaned a dataset of 120,000+ entries</strong> with over 40 features — used label encoding, null-value imputation, and standardization to prepare inputs.</li>
+  <li><strong>Selected 13 key features</strong> such as Pardot Score, Prospect Status, Device Type, Recent Activity, and City — based on formula-derived business rules from marketing teams.</li>
+  <li><strong>Split the data using a 70:30 test-train ratio</strong> using Keras auto-splitting features to ensure unbiased validation of the neural net’s performance.</li>
+  <li><strong>Achieved ~95% classification accuracy</strong> after iterative tuning of weights, activation functions (ReLU, Softmax), and dropout rates across five hidden layers.</li>
+  <li><strong>Encoded unknown/noisy entries</strong> into a distinct "Unknown" category to drive insights into campaign metadata quality and response attribution gaps.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Business Impact</strong></summary>
+
+<ul>
+  <li><strong>Reduced manual lead sorting by 70%</strong> through automated classification and triaging — increased focus on high-potential accounts.</li>
+  <li><strong>Enhanced data quality visibility</strong> for “Unknown” classified leads, triggering internal process changes for email validation and CRM tagging standards.</li>
+  <li><strong>Improved campaign targeting</strong> by helping the marketing team prioritize responsive prospects and suppress cold or invalid ones.</li>
+  <li><strong>Created a 10-step implementation guide</strong> for business analysts to run the model independently on new CSV data via Anaconda environments.</li>
+  <li><strong>Collaborated cross-functionally</strong> with marketing, data analytics, and engineering teams to validate the ML model pipeline and logic.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Gallery: Feature Selection & Model Output</strong></summary>
+
+<img src="{{ site.baseurl }}/assets/img/encora_feature_selection.jpg" alt="Feature Selection" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<strong>Feature Selection:</strong> Input data filtered from 40+ CRM attributes to 13 high-impact lead indicators
+
+<img src="{{ site.baseurl }}/assets/img/encora_prediction_output.jpg" alt="Prediction Accuracy" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<strong>Model Output:</strong> Sample comparison of predicted values vs formula-generated outputs in CSV using Keras APIs
+
+</details>
+
 
 ---
 
-## 🛠️ Class B Project
-### ⚙️ Electronics Intern  
-*May 2019 – Aug 2019 · Pune, India*  
-- Designed 10A precision current source for laser diode in CNC setup (0.1% error).  
-- Integrated Bluetooth-based CNC control and built analog feedback loop in Embedded C.
+<h2>
+  <img src="{{ site.baseurl }}/assets/img/classb_logo.png" alt="Class B Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  Class B Project
+</h2>
+
+<em>May 2019 – Aug 2019 · Pune, India</em>  
+<em>Role: Electronics Intern</em>  
+<em>A startup focused on developing electronics and firmware for hobbyist CNC and 3D printers.</em>
+
+<details>
+<summary><strong>Technical Contributions</strong></summary>
+
+<ul>
+  <li><strong>Developed a 10A precision constant current source</strong> using a feedback-stabilized op-amp loop, analog comparator, and DC-DC conversion — used for laser diode current control.</li>
+  <li><strong>Designed control circuitry</strong> for a 6W benchtop CNC system — included digital potentiometer-based current trimming.</li>
+  <li><strong>Simulated analog control behavior</strong> using LTSpice to validate power ripple suppression and voltage drop limits for a 12V → 5V regulated output.</li>
+  <li><strong>Created embedded C firmware</strong> using STM32 microcontroller to drive the digital current controller with SPI interface support.</li>
+  <li><strong>Engineered analog signal flow</strong> with less than 0.1% error in feedback loop — optimized circuit layout for minimal power noise and drift.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>System Integration & Prototyping</strong></summary>
+
+<ul>
+  <li><strong>Connected hardware to open-source CNC GUI</strong> using Bluetooth interface and customized firmware hooks in C++ to add current control overlays.</li>
+  <li><strong>Documented power stage calculations</strong>, pin mappings, and op-amp selection criteria to support future hardware scaling for 12V+ laser modules.</li>
+</ul>
+
+</details>

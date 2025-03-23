@@ -10,13 +10,48 @@ nav-order: 3
 
 ---
 
-## University of Southern California (USC)
-### Graduate Teaching Assistant — Leading & Managing Engineering Teams  
-*Aug 2024 – Present · USC Viterbi School of Engineering*  
-- Designed case study on Tata Group’s leadership and mission strategy.  
-- Managed IT infrastructure and assisted with grading and discussion sessions for 17 students.
-<img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="Class Photo" style="width: 50%; border-radius: 8px; margin-bottom: 1.5rem;"/>
+<h2>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  University of Southern California – Viterbi School of Engineering
+</h2>
 
+<em>Aug 2024 – Present · Los Angeles, CA · Part-time</em>  
+<em>Role: Graduate Teaching Assistant & Course Producer (ISE 544 – Leading and Managing Engineering Teams)</em>  
+<em>Academic leadership and instructional support for a graduate-level course on engineering leadership — 
+<a href="https://classes.usc.edu/term-20251/course/ise-544/" target="_blank">classes.usc.edu/term-20251</a></em>
+
+<details>
+<summary><strong>Teaching & Instructional Contributions</strong></summary>
+
+<ul>
+  <li><strong>Drafted an original in-class case study</strong> titled “Mission and Vision of the Tata Group” to facilitate student discussion on real-world leadership strategies.</li>
+  <li><strong>Assisted the professor</strong> with lecture planning, class logistics, and IT infrastructure setup for hybrid instruction across in-person and remote learners.</li>
+  <li><strong>Managed course materials and grading</strong> for 30 students, ensuring timely evaluation, rubric alignment, and feedback delivery via the USC LMS system (Brightspace).</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Leadership & Mentorship Impact</strong></summary>
+
+<ul>
+  <li><strong>Mentored graduate engineering students</strong> on term projects focused on team dynamics, leadership planning, and cross-functional collaboration in R&D teams.</li>
+  <li><strong>Guided 8 teams through real-world consulting engagements.</strong></li>
+  <li><strong>Facilitated weekly workshops</strong> on topics such as team formation, organization structure, conflict management, and transformational leadership practices.</li>
+  <li><strong>Supported professor Ali Nowroozi</strong> in maintaining academic quality and a smooth instructional experience across two full 16-week semesters.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Class Gallery</strong></summary>
+
+<img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="ISE 544 Fall 2024 Class" style="border-radius: 8px; max-width: 40%; margin-top: 1rem;" />
+<strong>Class Snapshot:</strong> ISE 544 – Leading and Managing Engineering Teams · Fall 2024 cohort with Prof. Ali Nowroozi and student teams.
+
+</details>
+
+---
 
 <h2>
   <img src="{{ site.baseurl }}/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />

@@ -18,12 +18,63 @@ nav-order: 3
 <img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="Class Photo" style="width: 50%; border-radius: 8px; margin-bottom: 1.5rem;"/>
 
 
-### Digital Fabrication Solution Architect — Baum Family Maker Space  
-*Sep 2023 – Present · Los Angeles, CA*  
-- Automated 80% of the Order-to-Cash cycle using Robotic Process Automation (RPA).  
-- Reduced manual labor by 2+ hours per week by automating RFID access validation using JavaScript.  
-- Built Google Apps Script integrations with Trello and Forms to improve 3D printing throughput by up to 5x.  
-- Designed ERP-driven material planning using AppSheet and real-time dashboards.
+<h2>
+  <img src="{{ site.baseurl }}/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  University of Southern California – Baum Family Maker Space
+</h2>
+
+<em>Jan 2024 – Present · Los Angeles, CA · Part-time</em>  
+<em>Role: Digital Fabrication Solution Architect (Student Worker)</em>  
+<em>A design and fabrication center for use by students in the USC Viterbi School of Engineering — 
+<a href="https://viterbiundergrad.usc.edu/bfms/" target="_blank">viterbiundergrad.usc.edu/bfms/</a></em>
+
+<details>
+<summary><strong>Technical Achievements</strong></summary>
+
+<ul>
+  <li><strong>Engineered a cloud-based scheduling system</strong> for 3D printing using Trello, Google Forms, and REST API — improved throughput by <strong>5x</strong> and automated ticketing and prioritization workflows.</li>
+  <li><strong>Automated the Order-to-Cash (O2C) cycle</strong> by developing RPA scripts to handle file tracking, invoice generation, and order fulfillment — reduced human error and saved <strong>20+ hours/week</strong>.</li>
+  <li><strong>Streamlined RFID door access system</strong> using JavaScript-based Google Apps Script with auto-notifications and dynamic access management — <strong>2 hours/week</strong> manual labor eliminated.</li>
+  <li><strong>Architected the AUSCAS v2.0 system</strong> using UML-based workflow modeling and integrated dynamic front-end interfaces — boosted data transparency and database integrity.</li>
+  <li><strong>Enabled ERP-driven inventory planning</strong> using AppSheet (no-code platform) — optimized procurement and saved <strong>8+ hours/week</strong> in lead time.</li>
+  <li><strong>Expanded digital fabrication pipeline</strong> by integrating Formlabs, Prusa, and Markforged 3D printers — achieved IoT-enabled print monitoring and failure tracking.</li>
+  <li><strong>Delivered over 100 specialized aerospace and automotive prints</strong> using Stratasys F900 and F370 printers in ULTEM, ABS, Nylon, and ASA — ensured structural accuracy, surface finish, and thermal performance.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Managerial & Business Achievements</strong></summary>
+
+<ul>
+  <li><strong>Defined project roadmaps</strong> for 3D printing services based on KPI data and stakeholder interviews — enabled informed equipment procurement decisions (5 new machines acquired).</li>
+  <li><strong>Standardized operations</strong> across the maker space through SOP documentation for every stage of the workflow — enabled rapid onboarding of 5+ new employees and future-proofing.</li>
+  <li><strong>Orchestrated cross-functional coordination</strong> between print supervisors, IT staff, and student assistants — increased service response time and reduced ticket backlog.</li>
+  <li><strong>Led Agile management</strong> using Trello to track ticketing priorities and manage weekly reviews through Google Forms — reduced reprint rate by <strong>70%</strong> through continuous process refinement.</li>
+  <li><strong>Initiated analytical reports</strong> on annual 3D printing trends — supported budgeting, capacity expansion, and administrative planning decisions.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Gallery: Maker Space Tools, Systems & Workflows</strong></summary>
+
+<img src="{{ site.baseurl }}/assets/img/usc_trello.jpg" alt="Trello Ticketing System" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<strong>Ticketing System:</strong> Agile workflow with prioritized ticket queues for different 3D printing jobs, integrated with form submissions.
+
+<img src="{{ site.baseurl }}/assets/img/usc_rfiddoor.jpg" alt="RFID Door Automation" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<strong>RFID Access:</strong> JavaScript-based auto-validated entry for access-controlled zones, reducing manual intervention.
+
+<img src="{{ site.baseurl }}/assets/img/usc_printers.jpg" alt="3D Printers" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<strong>3D Printer Fleet:</strong> Prusa, Formlabs, and Markforged printers automated via Prusa Connect and other IoT services.
+
+<img src="{{ site.baseurl }}/assets/img/usc_appsheet.jpg" alt="Inventory Planning" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<strong>Inventory & ERP:</strong> AppSheet-based ERP system for raw material tracking, procurement planning, and alerts.
+
+<img src="{{ site.baseurl }}/assets/img/usc_sop.jpg" alt="Standard Operating Procedures" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<strong>SOP Repository:</strong> Centralized SOP database for team onboarding, job validation, and troubleshooting workflows.
+
+</details>
 
 ---
 

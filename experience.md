@@ -15,7 +15,7 @@ nav-order: 3
 *Aug 2024 – Present · USC Viterbi School of Engineering*  
 - Designed case study on Tata Group’s leadership and mission strategy.  
 - Managed IT infrastructure and assisted with grading and discussion sessions for 17 students.
-<img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="Class Photo" width="500"/>
+<img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="Class Photo" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;"/>
 
 
 ### 🎯 Digital Fabrication Solution Architect — Baum Family Maker Space  
@@ -69,34 +69,34 @@ nav-order: 3
 <details>
 <summary><strong>Gallery: Systems Designed, Built & Delivered</strong></summary>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSparametricCAD.jpg" alt="3D Render of Motor Testing System" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSparametricCAD.jpg" alt="3D Render of Motor Testing System" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Parametric CAD:</strong> Modular internal architecture designed for HV insulation, scalability, and safe operator servicing — used for design approval process (DAP)</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSlayout.jpg" alt="3D Render of factory layout" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSlayout.jpg" alt="3D Render of factory layout" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Factory layout:</strong> Testing cell layout with integrated safety interlocks, PC-HMI zone, and isolation boundaries</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_PCB.jpg" alt="Diagnostic PCB" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_PCB.jpg" alt="Diagnostic PCB" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>PCB with self-diagnostics:</strong> Self-diagnostic controller board with opto-isolated trip logic and analog feedback for insulation testing</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_CRM.jpg" alt="Contact Resistance Tester" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_CRM.jpg" alt="Contact Resistance Tester" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Contact Resistance Meter:</strong> 500A contact resistance meter with HMI control and diagnostics — configured for rapid deployment to Tier-1 OEM client (Schneider)</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_hipot.jpg" alt="Hipot Tester" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_hipot.jpg" alt="Hipot Tester" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>AC Hipot Tester:</strong> Fully customized 10kV/500mA insulation tester with analog controls & interlocks (export quality — for sale in USA and Australia)</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSVFD.jpg" alt="VFD Integration" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSVFD.jpg" alt="VFD Integration" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>VFD Integration:</strong> High-current control using variable frequency drive for automated motor testing</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_busbars.jpg" alt="Power Bus Bars" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_busbars.jpg" alt="Power Bus Bars" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Power Bus Bars:</strong> High current terminals & busbars custom-designed for +1000A current with short-circuit protection and earthing connectors</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_relays.jpg" alt="Relay bank" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_relays.jpg" alt="Relay bank" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Relay Bank:</strong> Modular relay/optocoupler boards mounted on custom rack — enabling real-time multi-channel control and sensing using PLC</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSfabrication.jpg" alt="Fabrication Inspection" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSfabrication.jpg" alt="Fabrication Inspection" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Fabrication:</strong> Fabrication inspection of motor tester enclosure with local suppliers in India</li>
 
-<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSready.jpg" alt="Final Motor Testing System" style="border-radius: 8px; max-width: 25%; margin-top: 1.5rem;" />
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_MTSready.jpg" alt="Final Motor Testing System" style="width: 30%; border-radius: 8px; margin-bottom: 1.5rem;" />
 <li><strong>Ready-to-ship System:</strong> Final motor tester cabinet with lockable panel access and product-standardized color scheme (accepted by Tier-1 OEMs)</li>
 
 </details>

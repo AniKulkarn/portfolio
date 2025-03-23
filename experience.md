@@ -47,7 +47,7 @@ nav-order: 3
 <summary><strong>Class Gallery</strong></summary>
 
 <img src="https://anikulkarn.github.io/portfolio/assets/img/ISE544_FA24_classphoto.jpg" alt="ISE 544 Fall 2024 Class" style="border-radius: 8px; max-width: 40%; margin-top: 1rem;" />
-<strong>Class Snapshot:</strong> ISE 544 – Leading and Managing Engineering Teams · Fall 2024 cohort with Prof. Ali Nowroozi and student teams.
+<li><strong>Class Snapshot:</strong> ISE 544 – Leading and Managing Engineering Teams · Fall 2024 cohort with Prof. Ali Nowroozi and student teams.</li>
 
 </details>
 

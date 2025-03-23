@@ -2,16 +2,9 @@
 layout: page
 permalink: /
 ---
-<div class="hero">
-  <div class="hero-image">
-    <img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Hero image of Anish Kulkarni" />
-    <div class="hero-text">
-      <h1>Hello, I'm Anish Kulkarni</h1>
-      <p>Cross-functional engineer | Product strategist | Automation enthusiast</p>
-      <p><a href="https://anikulkarn.github.io/portfolio/projects/" class="button">Explore My Work</a></p>
-    </div>
-  </div>
-</div>
+<h1>About me</h1>
+<img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Banner" style="width: 100%; border-radius: 8px; margin-bottom: 1.5rem;" />
+<h2>Hello, I'm Anish Kulkarni.</h2>
 
 I’m a multidisciplinary product engineer with experience in:
 

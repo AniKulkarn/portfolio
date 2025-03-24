@@ -1,56 +1,89 @@
 ---
 layout: page
-title: Mentoring
-permalink: /mentoring/
+title: Volunteering
+permalink: /volunteering/
+nav-order: 6
 ---
 
-# 🧑‍🏫 Mentoring & Teaching
+<blockquote>
+  <em>“In a free enterprise, the community is not just another stakeholder in business but it is in fact the very purpose of its existence.”</em><br/>
+  <strong>– Jamsetji Tata</strong>
+</blockquote>
 
----
+<h3>STEM Education & Youth Mentorship</h3>
+<br/>
 
-## 👨‍🏫 Graduate Teaching Assistant — USC Viterbi School of Engineering  
-**Course:** ISE 544 – *Leading and Managing Engineering Teams*  
-**Instructor:** Prof. Ali Nowroozi  
-*Aug 2024 – Present*  
-- Drafted an in-class case study on the *Mission and Vision of Tata Group* to foster leadership discussion.  
-- Assisted with curriculum delivery, grading, and classroom logistics for 17 students.  
-- Supported students in leadership frameworks, team dynamics, and real-world case analyses.
+<details>
+<summary><strong>FIRST Robotics Mentor</strong> · USC Viterbi Impact <em>(Jan 2024 – May 2024)</em></summary>
+<br/>
+<ul>
+  <li>Mentored Team Humans 4501 (New Roads School, Santa Monica) through FIRST Robotics competition.</li>
+  <li>Provided hands-on support in electronics, systems integration, PID tuning, programming, and manufacturing.</li>
+  <li>Fostered critical thinking and teamwork in a competitive STEM environment for high school students.</li>
+</ul>
+</details>
 
----
+<details>
+<summary><strong>STEM Facilitator – Upward Bound Academy</strong> · USC Viterbi Impact <em>(Sep 2023 – Dec 2023)</em></summary>
+<br/>
+<ul>
+  <li>Supported first-gen, low-income high school students through hands-on STEM workshops at Mt. San Antonio College.</li>
+  <li>Led group sessions on building hydrogen cell toy cars, facilitating scientific learning through structured activities.</li>
+  <li>Adapted instructional content to 9th–11th grade students with varied learning needs and experiences.</li>
+</ul>
+</details>
 
-## 🤖 FIRST Robotics Mentor — Team Humans 4501 (USC VIP)  
-*Jan 2024 – May 2024 · Los Angeles, CA*  
-- Mentored 9 students in system-level robotics engineering including:
-  - C++ programming
-  - PID calibration
-  - Electronics design
-  - Mechanical integration  
-- Enhanced robot performance and teamwork using Agile sprints and peer feedback loops.  
-- Provided hands-on guidance in design reviews and troubleshooting sessions.
+<details>
+<summary><strong>Electronics Teacher</strong> · The Apprentice Project (TAP) <em>(Dec 2018 – Jan 2019)</em></summary>
+<br/>
+<ul>
+  <li>Taught electronics to underprivileged schoolchildren at Maharshi Harkadas EMS and ADH Primary School (Pune) as part of a Teach for India-backed initiative.</li>
+  <li>Designed and delivered hands-on sessions to spark interest in STEM fields and build basic circuit understanding.</li>
+</ul>
+</details>
 
----
+</details>
 
-## 🧑‍🎓 Peer Mentor — Summer Internship Program (Undergraduate, VIIT)  
-*Summer 2020 · Pune, India*  
-- Mentored incoming students on research project selection and execution.  
-- Guided several teams in electronics prototyping and patent filing.  
-- Conducted tutorials on design thinking and embedded systems, bridging gaps in practical learning.
+<hr/>
 
----
+<h3>Humanitarian & Disaster Relief</h3>
+<br/>
 
-## 🦿 VIIT Robotics Club — Senior Mentor & Vice-President  
-*Aug 2019 – May 2021*  
-- Shifted club strategy to a "design-first" methodology, improving project output and efficiency.  
-- Mentored students on:
-  - Modular robotics
-  - Component reuse
-  - SCRUM task tracking (via Trello)  
-- Led hands-on bootcamps and secured R&D funding to scale prototyping capabilities.
+<details>
+<summary><strong>Community Volunteer</strong> · Maharashtra State Covid-19 Response <em>(Apr 2020 – May 2020)</em></summary>
+<br/>
+<ul>
+  <li>Volunteered during COVID-19 lockdown to assist with safe repatriation of 3000+ stranded migrant laborers across India.</li>
+  <li>Documented passenger data (including for non-literate individuals) using detailed Excel records and pivot-table dashboards.</li>
+  <li>Collaborated directly with DCP Purnima Gaikwad (Zone 3, Pune Police) to facilitate daily transportation logistics and policy tracking.</li>
+</ul>
+</details>
 
----
+<details>
+<summary><strong>Field Volunteer</strong> · MES Balshikshan Mandir <em>(July 2014 – July 2014)</em></summary>
+<br/>
+<ul>
+  <li>Supported rural rice farmers during planting season through field labor and social service awareness initiatives.</li>
+  <li>Recognized the health risks involved in paddy work (infections, poor wound healing) and advocated for student participation in agricultural volunteering.</li>
+  <li>Gained appreciation for grassroots labor and economic barriers facing the rural farming community in India.</li>
+</ul>
+</details>
 
-## 🧠 Knowledge Circle — Founder & Incubator Mentor  
-*2019 – 2021 · VIIT Pune*  
-- Co-founded an interdisciplinary club focused on engineering innovation.  
-- Guided students in developing 5+ technical prototypes across electronics, software, and mechanical domains.  
-- Enabled filing of student patents and supported participation in national-level competitions.
+</details>
+
+<hr/>
+
+<h3>Peace & Global Citizenship</h3>
+<br/>
+
+<details>
+<summary><strong>Peace Conference Participant</strong> · UWC Mahindra College <em>(Nov 2015 – Dec 2015)</em></summary>
+<br/>
+<ul>
+  <li>Represented India at the United Peace Youth Festival (UPYF), a global dialogue on peace and conflict resolution hosted at UWC Mahindra College.</li>
+  <li>Engaged in intercultural learning and roundtable discussions with youth from 99+ countries to explore human rights and nonviolence principles.</li>
+  <li>Shared personal stories and cultural insights while building frameworks for empathy, inclusion, and community-led peacebuilding.</li>
+</ul>
+</details>
+
+</details>

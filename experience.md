@@ -50,7 +50,7 @@ nav-order: 3
 ---
 
 <h2>
-  <img src="{{ site.baseurl }}/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   University of Southern California – Baum Family Maker Space
 </h2>
 
@@ -90,27 +90,27 @@ nav-order: 3
 <details>
 <summary><strong>Gallery: Maker Space Tools, Systems & Workflows</strong></summary>
 
-<img src="{{ site.baseurl }}/assets/img/usc_trello.jpg" alt="Trello Ticketing System" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-<strong>Ticketing System:</strong> Agile workflow with prioritized ticket queues for different 3D printing jobs, integrated with form submissions.
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc_trello.jpg" alt="Trello Ticketing System" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>Ticketing System:</strong> Agile workflow with prioritized ticket queues for different 3D printing jobs, integrated with form submissions.</li>
 
-<img src="{{ site.baseurl }}/assets/img/usc_rfiddoor.jpg" alt="RFID Door Automation" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-<strong>RFID Access:</strong> JavaScript-based auto-validated entry for access-controlled zones, reducing manual intervention.
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc_rfiddoor.jpg" alt="RFID Door Automation" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>RFID Access:</strong> JavaScript-based auto-validated entry for access-controlled zones, reducing manual intervention.</li>
 
-<img src="{{ site.baseurl }}/assets/img/usc_printers.jpg" alt="3D Printers" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-<strong>3D Printer Fleet:</strong> Prusa, Formlabs, and Markforged printers automated via Prusa Connect and other IoT services.
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc_printers.jpg" alt="3D Printers" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>3D Printer Fleet:</strong> Prusa, Formlabs, and Markforged printers automated via Prusa Connect and other IoT services.</li>
 
-<img src="{{ site.baseurl }}/assets/img/usc_appsheet.jpg" alt="Inventory Planning" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-<strong>Inventory & ERP:</strong> AppSheet-based ERP system for raw material tracking, procurement planning, and alerts.
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc_appsheet.jpg" alt="Inventory Planning" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>Inventory & ERP:</strong> AppSheet-based ERP system for raw material tracking, procurement planning, and alerts.</li>
 
-<img src="{{ site.baseurl }}/assets/img/usc_sop.jpg" alt="Standard Operating Procedures" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
-<strong>SOP Repository:</strong> Centralized SOP database for team onboarding, job validation, and troubleshooting workflows.
+<img src="https://anikulkarn.github.io/portfolio/assets/img/usc_sop.jpg" alt="Standard Operating Procedures" style="border-radius: 8px; max-width: 25%; margin-top: 1rem;" />
+<li><strong>SOP Repository:</strong> Centralized SOP database for team onboarding, job validation, and troubleshooting workflows.</li>
 
 </details>
 
 ---
 
 <h2>
-  <img src="{{ site.baseurl }}/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   Crest Test Systems Pvt. Ltd.
 </h2>
 
@@ -190,7 +190,7 @@ nav-order: 3
 ---
 
 <h2>
-  <img src="{{ site.baseurl }}/assets/img/tifr_logo.png" alt="TIFR Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/tifr_logo.png" alt="TIFR Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   Tata Institute of Fundamental Research (TIFR) – Nuclear Physics Laboratory
 </h2>
 
@@ -227,7 +227,7 @@ nav-order: 3
 ---
 
 <h2>
-  <img src="{{ site.baseurl }}/assets/img/encora_logo.png" alt="Encora Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/encora_logo.png" alt="Encora Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   Excellarate (formerly Synerzip)
 </h2>
 
@@ -266,11 +266,11 @@ nav-order: 3
 <details>
 <summary><strong>Gallery: Feature Selection & Model Output</strong></summary>
 
-<img src="{{ site.baseurl }}/assets/img/encora_feature_selection.jpg" alt="Feature Selection" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
-<strong>Feature Selection:</strong> Input data filtered from 40+ CRM attributes to 13 high-impact lead indicators
+<img src="https://anikulkarn.github.io/portfolio/assets/img/encora_feature_selection.jpg" alt="Feature Selection" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Feature Selection:</strong> Input data filtered from 40+ CRM attributes to 13 high-impact lead indicators</li>
 
-<img src="{{ site.baseurl }}/assets/img/encora_prediction_output.jpg" alt="Prediction Accuracy" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
-<strong>Model Output:</strong> Sample comparison of predicted values vs formula-generated outputs in CSV using Keras APIs
+<img src="https://anikulkarn.github.io/portfolio/assets/img/encora_prediction_output.jpg" alt="Prediction Accuracy" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Model Output:</strong> Sample comparison of predicted values vs formula-generated outputs in CSV using Keras APIs</li>
 
 </details>
 
@@ -278,11 +278,58 @@ nav-order: 3
 ---
 
 <h2>
-  <img src="{{ site.baseurl }}/assets/img/classb_logo.png" alt="Class B Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_logo.png" alt="EcoEase Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  EcoEase India
+</h2>
+
+<em>Sep 2019 – Nov 2019 · Pune, India · Contract</em>  
+<em>Role: Project Assistant</em>  
+<em>EcoEase develops futuristic smart clothing using advanced indigenous hardware technology —
+<a href="https://ecoease.in/" target="_blank">ecoease.in</a></em>
+
+<details>
+<summary><strong>Technical Contributions</strong></summary>
+
+<ul>
+  <li><strong>Assisted in designing a TEG-integrated smart jacket</strong> — involved in electronic driver circuitry, power conversion, and module testing.</li>
+  <li><strong>Developed thermal cabling and layout logic</strong> to connect TEGs to power management units while maintaining minimal heat loss.</li>
+  <li><strong>Selected appropriate batteries and BMS modules</strong> to balance weight, charge cycles, and discharge profiles for wearable comfort.</li>
+  <li><strong>Designed a driver control board</strong> with H-bridge relay logic to enable microcontroller-based switching between heating and cooling modes in the TEG-powered wearable.</li>
+  <li><strong>Contributed to passive heat sink design</strong> to improve thermal gradient across TEGs using compact aluminum profiles and fanless dissipation.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Innovation & Product Impact</strong></summary>
+
+<ul>
+  <li><strong>Contributed to a prototype for a patented concept</strong> by EcoEase — combining renewable micro-power harvesting with wearable design.</li>
+  <li><strong>Worked in close coordination with the founder/CEO of the start-up (a trained fashion designer)</strong> to ensure the electronic systems integrated seamlessly into the jacket lining.</li>
+  <li><strong>Explored commercial TEG and battery module vendors</strong> for future scalability, pricing, and industrial use case validation.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Gallery</strong></summary>
+
+<img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_driver_board.jpg" alt="Driver Circuit Board" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Driver Board:</strong> Soldering the H-bridge relay driver circuit for controlling TEGs.</li>
+
+<img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_wiring_harness.jpg" alt="Wiring Harness Sketch" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Wiring Harness Sketch:</strong> Wiring between battery module, relay driver, microcontroller and TEGs inside the jacket.</li>
+
+</details>
+
+---
+
+<h2>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/classb_logo.png" alt="Class B Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   Class B Project
 </h2>
 
-<em>May 2019 – Aug 2019 · Pune, India</em>  
+<em>May 2019 – Aug 2019 · Pune, India · Internship</em>  
 <em>Role: Electronics Intern</em>  
 <em>A startup focused on developing electronics and firmware for hobbyist CNC and 3D printers.</em>
 
@@ -308,3 +355,51 @@ nav-order: 3
 </ul>
 
 </details>
+
+---
+
+<h2>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  Crest Test Systems Pvt. Ltd.
+</h2>
+
+<em>May 2018 – Jul 2018 · Pune, India · Internship</em>  
+<em>Role: Summer Intern (Industry-Mentored Student Engineering Project)</em>  
+<em>Developed an IoT-based conference room automation prototype using cloud APIs, embedded hardware, and relay control circuits — mentored by Crest’s Managing Director Mr. Vinay Achwal.</em>
+
+<details>
+<summary><strong>Technical Contributions</strong></summary>
+
+<ul>
+  <li><strong>Designed and implemented a functional smart conference room prototype</strong> using Raspberry Pi, Particle Photon, Google Calendar API, and Google Assistant for real-time automation triggers.</li>
+  <li><strong>Built relay and H-bridge motor driver circuits</strong> for projector screen, lighting, and DC fan motors — included protective flyback diodes, snubber caps, and current limiting resistors.</li>
+  <li><strong>Integrated voice command functionality</strong> using Google Assistant API with Raspberry Pi and Particle Photon, enabling dynamic control of presentation mode, lighting, and screen behavior.</li>
+  <li><strong>Created a robust fallback system</strong> for offline manual override and safety shutdowns during hardware fault conditions or loss of internet connection.</li>
+  <li><strong>Modeled the entire setup in Autodesk Fusion 360</strong> and coordinated full-scale prototype fabrication including ceiling, false wall panels, and modular electronics drawer.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Learning Outcomes & Industry Exposure</strong></summary>
+
+<ul>
+  <li><strong>Mentored directly by Crest MD Mr. Vinay Achwal</strong> through full ideation, system design, component sourcing, prototyping, and dry run debugging process.</li>
+  <li><strong>Presented the project to Dr. Anil Kakodkar</strong> (former Chairman, Atomic Energy Commission of India), who commended its relevance to Industry 4.0 and smart systems.</li>
+  <li><strong>Selected for Smart City innovation showcase</strong> at College of Military Engineering (CME), Pune — received praise from brigadiers, colonels, and veterans for defense applicability.</li>
+  <li><strong>Worked in a five-member interdisciplinary team</strong> handling embedded electronics, API integration, mobile app interaction, 3D modeling, and mechanical fabrication.</li>
+  <li><strong>Produced a 17-page detailed engineering report</strong> covering hardware, software, mechanical integration, budgeting, and future scope of real-world deployment.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Gallery: Functional Prototype & Recognition</strong></summary>
+
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_iot_demo.jpg" alt="Conference Room IoT Setup" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Smart Conference Room Demo:</strong> Automated system using Raspberry Pi, Google Assistant, and motorized components synced with calendar events.</li>
+
+<img src="https://anikulkarn.github.io/portfolio/assets/img/crest_cme_presentation.jpg" alt="CME Pune Presentation" style="border-radius: 8px; max-width: 30%; margin-top: 1rem;" />
+<li><strong>Defense Innovation Showcase:</strong> Selected for Smart City pitch at CME Pune — appreciated by Armed Forces for cross-domain engineering and automation relevance.</li>
+
+</details>
+
+

@@ -132,6 +132,47 @@ Project Management (MS Project) · Resource allocation · RACI matrix · Risk mi
 <h3>Systems Engineering & MBSE</h3>
 
 <details>
+<summary><strong>Fireproof Retractable House Cover <em>(Jan 2025 – Mar 2025)</em></strong></summary>
+<br/>
+
+<p><strong>Skills</strong><br/>
+Systems architecture · IBM Rhapsody · Functional decomposition · Axiomatic design · Product innovation · Risk-resilient engineering · User-centered design</p>
+
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Designed a fireproof, retractable home cover to shield buildings from wildfire-induced heat, embers, and flames</li>
+  <li>Focuses on proactive disaster defense using automation, dual-mode deployment (motorized and manual), and smart integration with home systems</li>
+</ul>
+
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Modeled the system architecture using <strong>IBM Rhapsody</strong> with fully traceable functionality from top-level concept to component design</li>
+  <li>Applied <strong>functional decomposition</strong> principles to separate the system into functionally independent modules (e.g., activation logic, cover mechanics, sensor control)</li>
+  <li>Used the <strong>Kano Model</strong> to map user expectations and identify "delight" vs. "must-have" features</li>
+  <li>Simulated design trade-offs using visual plots (e.g., cost vs. thermal resistance) to guide decision-making</li>
+</ul>
+
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Proposed design achieves <strong>full home coverage in under 3 minutes</strong> with estimated thermal resilience >1000°C</li>
+  <li>Manual deployment system designed to operate with <strong>~1500N force</strong> using gas-assisted lifting — enabling use during power outages</li>
+  <li>Architecture validated to be <strong>functionally uncoupled</strong> — improving reliability and modularity for real-world deployment</li>
+</ul>
+
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Gained experience translating abstract system-level functions into physical design parameters</li>
+  <li>Strengthened skills in cross-functional modeling by combining MBSE (Model-Based Systems Engineering) with design thinking and risk mitigation</li>
+  <li>Integrated learning from multiple courses including design, systems, and innovation management</li>
+</ul>
+
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/Fireproof_Retractable_House_Cover_Report.pdf" target="_blank">Project Report (PDF)</a></li>
+</ul>
+</details>
+
+<details>
 <summary><strong>MBSE: Space Mission Communication System <em>(Nov 2024 – Dec 2024)</em></strong></summary>
 <br/>
 

@@ -297,3 +297,149 @@ Voltage dividers · Analog display driver logic · Signal filtering · Snubber d
 </ul>
 </details>
 
+<h3>Fundamental Physics & Academic Prototypes</h3>
+
+<details>
+<summary><strong>Noise Modeling of a Source Follower Cryogenic Amplifier - Final-year Capstone Project <em>(May 2020 – Dec 2020)</em></strong></summary>
+<br/>
+
+<p><strong>Skills</strong><br/>
+JFET modeling · Low-noise circuit analysis · SPICE simulation · Analog electronics · Mathematical modeling</p>
+
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Modeled and simulated the noise behavior of a cryogenic front-end JFET-based amplifier for use in the Neutrinoless Double Beta Decay (NDBD) experiment at TIFR</li>
+  <li>Compared amplifier performance with passive and active load configurations using analytical methods and LTSpice</li>
+</ul>
+
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Derived an analytical noise model based on superposition of thermal, flicker, and shot noise from power supplies and transistors</li>
+  <li>Validated the model using LTSpice and matched the simulation output with theoretical results with <strong>98.7% accuracy</strong></li>
+  <li>Reduced power supply noise from 19nV/√Hz to 2nV/√Hz through improved filtering and power rail isolation techniques</li>
+</ul>
+
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Contributed to in-cryostat amplifier design for a sensor operating at <strong>120K</strong></li>
+  <li>Improved front-end signal-to-noise ratio for highly sensitive temperature sensors</li>
+</ul>
+
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Gained hands-on experience in analytical noise modeling and cross-verification via circuit simulators</li>
+  <li>Strengthened understanding of analog signal chain design for cryogenic instrumentation</li>
+</ul>
+
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/Noise_Modeling_CryoAmp.pdf" target="_blank">Project Report (PDF)</a></li>
+</ul>
+</details>
+
+<hr/>
+
+<details>
+<summary><strong>Automation of Solar Cell Experiment <em>(Jan 2018 – Apr 2018)</em></strong></summary>
+<br/>
+
+<p><strong>Skills</strong><br/>
+PID control · Sensor interfacing · VI characteristic plotting · Lab instrumentation · Embedded systems</p>
+
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Built a working prototype to automate measurement of solar cell voltage-current (VI) characteristics under varying light and temperature</li>
+  <li>Designed for use in undergraduate physics labs as an educational tool for semiconductor devices</li>
+</ul>
+
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Designed the circuit to measure and log current/voltage values through solar cells under different thermal and light inputs</li>
+  <li>Implemented PID-based temperature control with heating pad, feedback thermistor and Arduino</li>
+  <li>Developed logic for characterizing panel performance at various load conditions</li>
+</ul>
+
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Fully functional demo measuring real-time VI curves under lab and outdoor conditions</li>
+  <li>Used for coursework demonstrations in the Engineering Physics lab at VIIT</li>
+</ul>
+
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Built practical understanding of PID loop tuning and sensor signal conditioning</li>
+  <li>Learned to design accessible, low-cost educational instrumentation with high accuracy</li>
+</ul>
+</details>
+
+<hr/>
+
+<details>
+<summary><strong>Magnetic Suspension for Cars <em>(Nov 2017 – Dec 2017)</em></strong></summary>
+<br/>
+
+<p><strong>Skills</strong><br/>
+Electromagnetic actuation · Arduino control · Obstacle detection · Vehicle safety systems · Mechanical prototyping</p>
+
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Designed and prototyped a magnetic suspension system for miniature car chassis using push-rod actuated electromagnets</li>
+  <li>Explored the concept of dynamically adjustable dampers based on road surface quality using microcontroller-controlled magnetic field strength</li>
+  <li>Integrated ultrasonic sensors to simulate basic forward collision prevention functionality</li>
+</ul>
+
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Programmed Arduino-based control logic to modulate suspension behavior and detect front-end obstacles</li>
+  <li>Implemented a simple ADAS-like safety feature where the system halts forward motion if an object is within threshold distance</li>
+  <li>Built mechanical chassis and electromagnet setup to visualize smart suspension principles</li>
+</ul>
+
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Demonstrated proof-of-concept for microcontroller-controlled magnetic damping and obstacle-aware vehicle behavior</li>
+  <li>Highlighted real-world applicability in future ADAS and active suspension systems</li>
+</ul>
+
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Learned sensor fusion logic for reactive vehicle control systems</li>
+  <li>Strengthened practical understanding of integrating electronics, mechanics, and control logic for smart mobility solutions</li>
+</ul>
+
+</details>
+
+
+<hr/>
+
+<details>
+<summary><strong>Tesla Coil (High Voltage Experiment) <em>(Jan 2014 – Feb 2014)</em></strong></summary>
+<br/>
+
+<p><strong>Skills</strong><br/>
+Resonant circuits · High voltage design · Spark gap tuning · Safety circuits</p>
+
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Constructed a Tesla Coil with 400 secondary windings and 5 primary turns on a manually wound setup</li>
+  <li>Demonstrated spark discharge and capacitive field behavior for physics coursework experiments</li>
+</ul>
+
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Wound primary and secondary coils to specific inductance values</li>
+  <li>Tuned spark gap and resonant capacitor to achieve continuous arcs at low duty cycle</li>
+</ul>
+
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Produced visible corona and ~1.5cm spark discharges on aluminum torus</li>
+  <li>Used as a showpiece in the school physics exhibition on National Science Day (February 28th, 2014) and demoed to 300+ visitors</li>
+</ul>
+
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Gained firsthand understanding of electromagnetic resonance and spark gap timing</li>
+  <li>Practiced safety-critical assembly and insulation methods in HV circuits</li>
+</ul>
+</details>

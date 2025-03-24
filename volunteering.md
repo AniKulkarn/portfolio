@@ -42,8 +42,6 @@ nav-order: 6
 </ul>
 </details>
 
-</details>
-
 <hr/>
 
 <h3>Humanitarian & Disaster Relief</h3>
@@ -69,8 +67,6 @@ nav-order: 6
 </ul>
 </details>
 
-</details>
-
 <hr/>
 
 <h3>Peace & Global Citizenship</h3>
@@ -84,6 +80,4 @@ nav-order: 6
   <li>Engaged in intercultural learning and roundtable discussions with youth from 99+ countries to explore human rights and nonviolence principles.</li>
   <li>Shared personal stories and cultural insights while building frameworks for empathy, inclusion, and community-led peacebuilding.</li>
 </ul>
-</details>
-
 </details>

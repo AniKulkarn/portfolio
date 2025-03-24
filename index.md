@@ -21,6 +21,6 @@ I’m a multidisciplinary product engineer with experience in:
 - [📚 Education](education)
 - [💼 Experience](experience)
 - [⚙️ Projects](projects)
-- [📈 Leadership & Strategy](leadership)
-- [🧑‍🏫 Mentoring & Teaching](mentoring)
+- [📈 Leadership](leadership)
+- [🧑‍🏫 Volunteering](mentoring)
 - [🌐 Domains of Expertise](domains)

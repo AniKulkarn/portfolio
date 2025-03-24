@@ -6,8 +6,6 @@ nav-include: true
 nav-order: 2
 ---
 
-# 🎓 Education
-
 <img src="https://anikulkarn.github.io/portfolio/assets/img/usc.png" alt="USC Logo" width="500"/>
 ## University of Southern California
 **Master of Science in Product Development Engineering (Systems Focused)**  

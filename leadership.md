@@ -25,7 +25,6 @@ permalink: /leadership/
 </ul>
 </details>
 
-</details>
 
 <hr/>
 
@@ -53,7 +52,6 @@ permalink: /leadership/
 </ul>
 </details>
 
-</details>
 
 <hr/>
 
@@ -94,7 +92,6 @@ permalink: /leadership/
 </ul>
 </details>
 
-</details>
 
 <hr/>
 
@@ -122,4 +119,3 @@ permalink: /leadership/
 </ul>
 </details>
 
-</details>

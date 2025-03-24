@@ -16,7 +16,7 @@ nav-order: 7
   <li>Developed custom high-voltage probes, Derlin/Teflon enclosures, and PLC-calibrated systems for switchgear, motor winding, and circuit breaker testing.</li>
   <li>Delivered systems to Tier-1 OEMs including ABB, Siemens, Schneider, Alstom, and Crompton Greaves.</li>
   <li>Built AC Hipot testers, contact resistance meters, and handheld probe kits used in on-site commissioning.</li>
-  <li><a href="/experience/#----crest-test-systems-pvt-ltd">View Experience</a></li>
+  <li><a href="portfolio/experience/#----crest-test-systems-pvt-ltd">View Experience</a></li>
 </ul>
 
 <h3>Systems Engineering & MBSE</h3>

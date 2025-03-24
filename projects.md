@@ -172,6 +172,8 @@ Systems architecture · IBM Rhapsody · Functional decomposition · Axiomatic de
 </ul>
 </details>
 
+<hr/>
+
 <details>
 <summary><strong>MBSE: Space Mission Communication System <em>(Nov 2024 – Dec 2024)</em></strong></summary>
 <br/>
@@ -209,6 +211,8 @@ SysML · IBM Rhapsody · Requirements modeling · Finite State Machines · Fault
   <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/MBSE_SpaceMission_Design.pdf" target="_blank">Project Report</a></li>
 </ul>
 </details>
+
+<hr/>
 
 <h3>Embedded Systems & Electronics</h3>
 
@@ -337,6 +341,8 @@ Voltage dividers · Analog display driver logic · Signal filtering · Snubber d
   <li>Learned practical voltage scaling, ripple suppression, and display interfacing in low-power circuits</li>
 </ul>
 </details>
+
+<hr/>
 
 <h3>Fundamental Physics & Academic Prototypes</h3>
 
@@ -484,3 +490,4 @@ Resonant circuits · High voltage design · Spark gap tuning · Safety circuits<
   <li>Practiced safety-critical assembly and insulation methods in HV circuits</li>
 </ul>
 </details>
+<hr/>

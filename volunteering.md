@@ -11,7 +11,6 @@ nav-order: 6
 </blockquote>
 
 <h3>STEM Education & Youth Mentorship</h3>
-<br/>
 
 <details>
 <summary><strong>FIRST Robotics Mentor</strong> · USC Viterbi Impact <em>(Jan 2024 – May 2024)</em></summary>
@@ -45,7 +44,6 @@ nav-order: 6
 <hr/>
 
 <h3>Humanitarian & Disaster Relief</h3>
-<br/>
 
 <details>
 <summary><strong>Community Volunteer</strong> · Maharashtra State Covid-19 Response <em>(Apr 2020 – May 2020)</em></summary>
@@ -70,7 +68,6 @@ nav-order: 6
 <hr/>
 
 <h3>Peace & Global Citizenship</h3>
-<br/>
 
 <details>
 <summary><strong>Peace Conference Participant</strong> · UWC Mahindra College <em>(Nov 2015 – Dec 2015)</em></summary>

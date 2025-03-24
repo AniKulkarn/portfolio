@@ -168,7 +168,7 @@ Systems architecture · IBM Rhapsody · Functional decomposition · Axiomatic de
 
 <p><strong>Download</strong></p>
 <ul>
-  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/Fireproof_Retractable_House_Cover_Report.pdf" target="_blank">Project Report (PDF)</a></li>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/Fireproof_Retractable_House_Cover.pdf" target="_blank">Project Report (PDF)</a></li>
 </ul>
 </details>
 

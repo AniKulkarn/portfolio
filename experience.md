@@ -278,7 +278,7 @@ nav-order: 3
 ---
 
 <h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_logo.png" alt="EcoEase Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_logo.jpg" alt="EcoEase Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
   EcoEase India
 </h2>
 

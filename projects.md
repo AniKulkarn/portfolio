@@ -4,134 +4,167 @@ title: Projects
 permalink: /projects/
 ---
 
-### Product Strategy & Innovation
+<h3>Product Strategy & Innovation</h3>
 
 <details>
 <summary><strong>VoiceCAD AI – AI-Driven CAD System <em>(Sep 2024 – Dec 2024)</em></strong></summary>
+<br/>
 
-**Skills**  
-- Product strategy · Natural Language Processing · Startup financial modeling · UX integration
+<p><strong>Skills</strong><br/>
+Product strategy · Natural Language Processing · Startup financial modeling · UX integration</p>
 
-**Project Overview**  
-- AI-powered CAD plugin enabling design through voice and gesture input  
-- Developed GTM plan, financial forecast, and technical due diligence for VC presentation
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>AI-powered CAD plugin enabling design through voice and gesture input</li>
+  <li>Developed GTM plan, financial forecast, and technical due diligence for VC presentation</li>
+</ul>
 
-**Key Contributions**  
-- Built 5-year roadmap and $1.2M revenue forecast  
-- Delivered market validation via survey and user personas  
-- Authored full due diligence and product development plan
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Built 5-year roadmap and $1.2M revenue forecast</li>
+  <li>Delivered market validation via survey and user personas</li>
+  <li>Authored full due diligence and product development plan</li>
+</ul>
 
-**Results & Impact**  
-- Finalist (Top 3) at Product Pitch event in class  
-- Positioned for $1.3B+ TAM with 14.2% CAGR growth
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Finalist (Top 3) at Product Pitch event in class</li>
+  <li>Positioned for $1.3B+ TAM with 14.2% CAGR growth</li>
+</ul>
 
-**Learnings & Takeaway**  
-- Gained hands-on experience launching deep tech  
-- Balanced AI implementation with user adoption strategies
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Gained hands-on experience launching deep tech</li>
+  <li>Balanced AI implementation with user adoption strategies</li>
+</ul>
 
-**Downloads**  
-- [Opportunity Pitch Report](https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Opportunity_Report.pdf)  
-- [Due Diligence](https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Due_Diligence.pdf)  
-- [Product Plan](https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Product_Development.pdf)
-
+<p><strong>Downloads</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Opportunity_Report.pdf" target="_blank">Opportunity Pitch Report</a></li>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Due_Diligence.pdf" target="_blank">Due Diligence</a></li>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/VoiceCAD_Product_Development.pdf" target="_blank">Product Plan</a></li>
+</ul>
 </details>
 
----
+<hr/>
 
 <details>
 <summary><strong>Leadership Consultation for Tenneco <em>(Feb 2024 – May 2024)</em></strong></summary>
+<br/>
 
-**Skills**  
-- Organizational behavior · KPI analysis · Team diagnostics · Consulting communication
+<p><strong>Skills</strong><br/>
+Organizational behavior · KPI analysis · Team diagnostics · Consulting communication</p>
 
-**Project Overview**  
-- Assessed collaboration breakdowns in a global Tenneco R&D + Sales team  
-- Used Lencioni’s and Expectancy Theory frameworks to model dysfunctions
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Assessed collaboration breakdowns in a global Tenneco R&D + Sales team</li>
+  <li>Used Lencioni’s and Expectancy Theory frameworks to model dysfunctions</li>
+</ul>
 
-**Key Contributions**  
-- Designed and deployed performance survey across 11 team members  
-- Built performance maps using diagnostic theory  
-- Delivered tailored strategy to re-establish trust and alignment
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Designed and deployed performance survey across 11 team members</li>
+  <li>Built performance maps using diagnostic theory</li>
+  <li>Delivered tailored strategy to re-establish trust and alignment</li>
+</ul>
 
-**Results & Impact**  
-- Identified up to 20% productivity gain via team alignment  
-- Praised by Tenneco’s global leads as “actionable” and “impactful”
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Identified up to 20% productivity gain via team alignment</li>
+  <li>Praised by Tenneco’s global leads as “actionable” and “impactful”</li>
+</ul>
 
-**Learnings & Takeaway**  
-- Learned to apply leadership theory to org-wide impact  
-- Strengthened skills in stakeholder messaging and business storytelling
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Learned to apply leadership theory to org-wide impact</li>
+  <li>Strengthened skills in stakeholder messaging and business storytelling</li>
+</ul>
 
-**Download**  
-- [Final Presentation](https://anikulkarn.github.io/portfolio/assets/docs/Tenneco_Leadership_Presentation.pdf)
-
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/Tenneco_Leadership_Presentation.pdf" target="_blank">Final Presentation</a></li>
+</ul>
 </details>
 
----
+<hr/>
 
 <details>
 <summary><strong>Expanding Oral-B’s Modular Product Line <em>(Sep 2023 – Dec 2023)</em></strong></summary>
+<br/>
 
-**Skills**  
-- Traditional Project Management (TPM) using MS Project  
-- Resource leveling and recovery strategies  
-- Risk register and mitigation plan  
-- RACI matrix, critical path, and stakeholder management  
-- CAD design · Market research · Subscription modeling
+<p><strong>Skills</strong><br/>
+Project Management (MS Project) · Resource allocation · RACI matrix · Risk mitigation · CAD design · Market research</p>
 
-**Project Overview**  
-- Simulated consulting engagement to expand Oral-B’s modular toothbrush system  
-- Built a full product lifecycle plan and sustainability-focused design pitch  
-- Delivered market-ready modular oral-care accessories across multiple touchpoints
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Consulting project to expand Oral-B’s modular electric toothbrush system</li>
+  <li>Delivered lifecycle planning, subscription model, and stakeholder-ready pitch</li>
+</ul>
 
-**Key Contributions**  
-- Created a $23.5K scoped project lifecycle with Gantt chart, cost curves, and logic planning  
-- Developed three modular CAD concepts and defined resource roles using a RACI matrix  
-- Recovered critical path delays by fast-tracking and soft-logic flexibility  
-- Conducted user research with USC Dental students to validate accessory needs
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Created $23.5K scoped lifecycle plan with MS Project Gantt chart</li>
+  <li>Developed modular CAD designs and defined roles via RACI matrix</li>
+  <li>Conducted user research and recovered critical path through fast-tracking</li>
+</ul>
 
-**Results & Impact**  
-- Identified 6 potential modular SKUs with validated subscription model applicability  
-- Used MS Project to simulate resource peaks and optimized monthly order planning  
-- Reduced projected development time by 12% using early start logic and workload balancing  
-- Earned praise from USC faculty for project depth, feasibility, and stakeholder alignment
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Identified 6 launchable SKUs with D2C potential</li>
+  <li>Reduced dev time by 12% through logic tuning and task softening</li>
+  <li>Praised by USC faculty for presentation clarity and industry relevance</li>
+</ul>
 
-**Learnings & Takeaway**  
-- Gained hands-on experience with real-world project recovery and MS Project tooling  
-- Understood project execution trade-offs, such as hard/soft logic and stakeholder bandwidth  
-- Realized importance of role-sharing and cross-skill support in multi-disciplinary teams
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Understood trade-offs in real-world project planning</li>
+  <li>Learned stakeholder risk modeling and resource leveling</li>
+</ul>
 
-**Download**  
-- [Final Presentation](https://anikulkarn.github.io/portfolio/assets/docs/OralB_Modular_Final_Presentation.pdf)
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/OralB_Modular_Final_Presentation.pdf" target="_blank">Final Presentation</a></li>
+</ul>
 </details>
 
----
+<hr/>
 
-### Systems Engineering & MBSE
+<h3>Systems Engineering & MBSE</h3>
 
 <details>
 <summary><strong>MBSE: Space Mission Communication System <em>(Nov 2024 – Dec 2024)</em></strong></summary>
+<br/>
 
-**Skills**  
-- SysML · Requirement traceability · FSMs · Simulation · IBM Rhapsody
+<p><strong>Skills</strong><br/>
+SysML · IBM Rhapsody · Requirements modeling · Finite State Machines · Fault simulation</p>
 
-**Project Overview**  
-- Modeled a multi-agent satellite comm system using SysML: sender, receiver, satellite, and ground station  
-- Included signal loss, retries, and data acknowledgment loops with finite state transitions
+<p><strong>Project Overview</strong></p>
+<ul>
+  <li>Modeled satellite-ground communication with sender, receiver, and control center</li>
+  <li>Built behavior/state diagrams with error transitions, acknowledgment, and retries</li>
+</ul>
 
-**Key Contributions**  
-- Built 12+ traceable SysML diagrams (activity, sequence, IBD, FSM)  
-- Mapped requirement-to-behavior traceability using Rhapsody simulation  
-- Built reusable FSM libraries for satellite comms
+<p><strong>Key Contributions</strong></p>
+<ul>
+  <li>Built 12+ diagrams including FSM, IBD, activity, and sequence</li>
+  <li>Simulated mission-level comm logic and validated requirement traceability</li>
+  <li>Created reusable SysML blocks for future MBSE work</li>
+</ul>
 
-**Results & Impact**  
-- Full mission traceability validated via state transitions  
-- Scored highest mark in Systems Architecture course final
+<p><strong>Results & Impact</strong></p>
+<ul>
+  <li>Scored highest in Systems Architecture course final</li>
+  <li>Demonstrated full requirement-to-behavior traceability</li>
+</ul>
 
-**Learnings & Takeaway**  
-- Gained advanced MBSE skills applicable to aerospace, defense, and telecom domains  
-- Strengthened formal modeling workflow with system fault-handling logic
+<p><strong>Learnings & Takeaway</strong></p>
+<ul>
+  <li>Gained confidence in digital twin modeling using MBSE best practices</li>
+  <li>Learned system-level thinking in aerospace contexts</li>
+</ul>
 
-**Download**  
-- [Project Report](https://anikulkarn.github.io/portfolio/assets/docs/MBSE_SpaceMission_Design.pdf)
-
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/MBSE_SpaceMission_Design.pdf" target="_blank">Project Report</a></li>
+</ul>
 </details>

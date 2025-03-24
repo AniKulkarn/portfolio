@@ -196,33 +196,37 @@ nav-order: 3
 
 <em>May 2020 – Jun 2021 · Mumbai, India · Internship</em>  
 <em>Role: Research Intern – Analog Electronics (Neutrinoless Double Beta Decay Lab)</em>  
-<em>One of India’s Premier research institutions dedicated to the study of fundamental sciences. — 
+<em>India’s premier fundamental research institute under the Department of Atomic Energy — 
 <a href="https://www.tifr.res.in/dnap/nuclear-physics-laboratory.html" target="_blank">tifr.res.in/dnap/nuclear-physics-laboratory</a></em>
 
 <details>
 <summary><strong>Technical Contributions</strong></summary>
 
 <ul>
-  <li><strong>Derived and validated a mathematical model</strong> for a low-noise JFET amplifier using frequency-dependent gain and noise equations — achieved <strong>98.7% SPICE simulation accuracy and concluding that drain noise does not affect output noise as much as gate and source noise.</strong>.</li>
-  <li><strong>Designed preamplifier schematics</strong> for RTD-based cryogenic sensors using KiCad and LTSpice — achieved stable signal amplification at <strong>120 Kelvin</strong>.</li>
-  <li><strong>Reduced power supply noise</strong> from <strong>19nV/√Hz to 2nV/√Hz</strong> using the derived mathematical model to stabilize instrumentation for weak signal detection.</li>
-  <li><strong>Built a unity-gain, low-power voltage regulator</strong> with ultra-high impedance JFETs and simulation-backed biasing to isolate gate and source noise in cryogenic front-end electronics.</li>
-  <li><strong>Delivered design documentation</strong> and test data to senior scientists for research publications in nuclear physics instrumentation.</li>
+  <li><strong>Derived and validated a mathematical model</strong> for a low-noise JFET amplifier using frequency-dependent gain and noise equations — matched against LTSpice with <strong>98.7% accuracy</strong></li>
+  <li><strong>Designed preamplifier schematics</strong> for cryogenic RTD sensors at <strong>120K</strong> using passive and active load configurations</li>
+  <li><strong>Reduced power supply noise</strong> from <strong>~10nV/√Hz to below 2nV/√Hz</strong> using custom low-pass RC filters and a dual PSA (Power Supply Amplifier) approach</li>
+  <li><strong>Designed positive and negative PSA circuits</strong> with source-follower JFETs and low-noise op-amps (LT1028/1128), achieving <strong>1.27nV/√Hz and 1.84nV/√Hz</strong> noise densities respectively</li>
+  <li><strong>Simulated and tabulated device parameters</strong> (gm, rds, noise gain) under various bias conditions to match theoretical predictions</li>
+  <li><strong>Documented final schematics, tabulated test data, and prepared circuits for PCB fabrication and experimental deployment</strong></li>
 </ul>
-
 </details>
 
 <details>
 <summary><strong>Scientific Outcomes & Collaboration</strong></summary>
 
 <ul>
-  <li><strong>Worked with a multidisciplinary team</strong> of physicists and electronics researchers focused on the Neutrinoless Double Beta Decay (NDBD) project — a frontier area in particle physics.</li>
-  <li><strong>Collaborated directly with cryogenic system engineers</strong> to align electronics performance with experimental thermal and noise constraints.</li>
-  <li><strong>Validated simulated designs with foundational mathematical models programmed in Python</strong> under guidance from TIFR senior researchers to support detector calibration experiments.</li>
-  <li><strong>Contributed to signal integrity optimization</strong> in ultra-low noise analog front ends for rare-event detection experiments.</li>
+  <li><strong>Collaborated with TIFR physicists</strong> working on the <em>Neutrinoless Double Beta Decay (NDBD)</em> experiment and TIN.TIN bolometer detector</li>
+  <li><strong>Conducted noise correlation studies</strong> between preamplifier configurations and power supply sources to isolate dominant contributors</li>
+  <li><strong>Implemented collaborative research documentation workflow</strong> using Trello and Google Sheets for design logs, simulation parameters, and iterative results</li>
+  <li><strong>Established framework for integrating the low-noise DC supply</strong> into front-end electronics of the 124Sn bolometer array planned for INO</li>
 </ul>
-
 </details>
+
+<p><strong>Download</strong></p>
+<ul>
+  <li><a href="https://anikulkarn.github.io/portfolio/assets/docs/TIFR_Internship_Report.pdf" target="_blank">Internship Report – Low Noise Power Supply Design (PDF)</a></li>
+</ul>
 
 ---
 

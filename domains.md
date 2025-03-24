@@ -6,8 +6,6 @@ nav-include: true
 nav-order: 7
 ---
 
-# 🌐 Domains of Expertise
-
 Here’s a categorized view of the technical, strategic, and interdisciplinary domains I’ve worked in across projects, jobs, and academic research.
 
 ---

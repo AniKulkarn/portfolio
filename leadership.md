@@ -12,7 +12,6 @@ permalink: /leadership/
 ---
 
 <h3>Community Building & Wellness</h3>
-<br/>
 
 <details>
 <summary><strong>Trojans on Trails</strong> · Founder & Lead Facilitator <em>(Jun 2024 – Present)</em></summary>
@@ -29,7 +28,6 @@ permalink: /leadership/
 <hr/>
 
 <h3>Peer Mentorship & Student Development</h3>
-<br/>
 
 <details>
 <summary><strong>Summer Internship Programme 2020</strong> · Second Generation Peer Mentor <em>(May 2020 – Jul 2020)</em></summary>
@@ -56,7 +54,6 @@ permalink: /leadership/
 <hr/>
 
 <h3>Student Leadership & Organizational Roles</h3>
-<br/>
 
 <details>
 <summary><strong>VIIT Robotics</strong> · Vice-President and Senior Mentor <em>(Aug 2019 – May 2021)</em></summary>
@@ -96,7 +93,6 @@ permalink: /leadership/
 <hr/>
 
 <h3>Innovation & Knowledge Communities</h3>
-<br/>
 
 <details>
 <summary><strong>Knowledge Circle</strong> · Co-Founder and President <em>(Aug 2018 – Aug 2019)</em></summary>

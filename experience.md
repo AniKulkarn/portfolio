@@ -6,10 +6,10 @@ nav-include: true
 nav-order: 3
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   University of Southern California – Viterbi School of Engineering
-</h2>
+</h3>
 
 <em>Aug 2024 – Present · Los Angeles, CA · Part-time</em>  
 <em>Role: Graduate Teaching Assistant & Course Producer (ISE 544 – Leading and Managing Engineering Teams)</em>  
@@ -49,10 +49,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/usc_logo.png" alt="USC Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   University of Southern California – Baum Family Maker Space
-</h2>
+</h3>
 
 <em>Jan 2024 – Present · Los Angeles, CA · Part-time</em>  
 <em>Role: Digital Fabrication Solution Architect (Student Worker)</em>  
@@ -109,10 +109,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   Crest Test Systems Pvt. Ltd.
-</h2>
+</h3>
 
 <em>Aug 2021 – Jul 2023 · Pune, India · Full-time</em>  
 <em>Roles: Product Manager · Design Engineer · Commissioning Supervisor</em>  
@@ -189,10 +189,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/tifr_logo.png" alt="TIFR Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/tifr_logo.png" alt="TIFR Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   Tata Institute of Fundamental Research (TIFR) – Nuclear Physics Laboratory
-</h2>
+</h3>
 
 <em>May 2020 – Jun 2021 · Mumbai, India · Internship</em>  
 <em>Role: Research Intern – Analog Electronics (Neutrinoless Double Beta Decay Lab)</em>  
@@ -230,10 +230,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/encora_logo.png" alt="Encora Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/encora_logo.png" alt="Encora Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   Excellarate (formerly Synerzip)
-</h2>
+</h3>
 
 <em>Apr 2020 – Jul 2020 · Pune, India · Internship</em>  
 <em>Role: Business Analytics & Machine Learning Intern</em>  
@@ -281,10 +281,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_logo.jpg" alt="EcoEase Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/ecoease_logo.jpg" alt="EcoEase Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   EcoEase India
-</h2>
+</h3>
 
 <em>Sep 2019 – Nov 2019 · Pune, India · Contract</em>  
 <em>Role: Project Assistant</em>  
@@ -328,10 +328,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/classb_logo.png" alt="Class B Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/classb_logo.png" alt="Class B Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   Class B Project
-</h2>
+</h3>
 
 <em>May 2019 – Aug 2019 · Pune, India · Internship</em>  
 <em>Role: Electronics Intern</em>  
@@ -362,10 +362,10 @@ nav-order: 3
 
 ---
 
-<h2>
-  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;" />
+<h3>
+  <img src="https://anikulkarn.github.io/portfolio/assets/img/crest_logo.png" alt="Crest Logo" style="height: 40px; vertical-align: bottom; margin-right: 10px;" />
   Crest Test Systems Pvt. Ltd.
-</h2>
+</h3>
 
 <em>May 2018 – Jul 2018 · Pune, India · Internship</em>  
 <em>Role: Summer Intern (Industry-Mentored Student Engineering Project)</em>  

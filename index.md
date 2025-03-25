@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /portfolio/
 ---
 <h1>About me</h1>
 <img src="https://anikulkarn.github.io/portfolio/assets/img/anish_dp.jpg" alt="Banner" style="width: 25%; border-radius: 8px; margin-bottom: 1.5rem;" />

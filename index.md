@@ -21,11 +21,11 @@ Welcome to my portfolio — a curated journey across high-voltage systems, embed
 <h2>Explore My Work</h2>
 
 <ul>
-  <li><a href="/projects/">📁 Projects</a> – Technical and strategic projects across systems engineering, energy, automation, AI, and design.</li>
-  <li><a href="/experience/">⚙️ Work Experience</a> – Real-world engineering roles in high-voltage, fabrication, and research.</li>
-  <li><a href="/leadership/">👥 Leadership</a> – Building organizations, teams, and mentorship pipelines across academia and industry.</li>
-  <li><a href="/volunteering/">🌍 Volunteering</a> – Hands-on social impact through education, disaster relief, and STEM outreach.</li>
-  <li><a href="/domains/">📡 Domains</a> – A categorized overview of my technical expertise by engineering focus area.</li>
+  <li><a href="/portfolio/projects/">📁 Projects</a> – Technical and strategic projects across systems engineering, energy, automation, AI, and design.</li>
+  <li><a href="/portfolio/experience/">⚙️ Work Experience</a> – Real-world engineering roles in high-voltage, fabrication, and research.</li>
+  <li><a href="/portfolio/leadership/">👥 Leadership</a> – Building organizations, teams, and mentorship pipelines across academia and industry.</li>
+  <li><a href="/portfolio/volunteering/">🌍 Volunteering</a> – Hands-on social impact through education, disaster relief, and STEM outreach.</li>
+  <li><a href="/portfolio/domains/">📡 Domains</a> – A categorized overview of my technical expertise by engineering focus area.</li>
 </ul>
 
 ---

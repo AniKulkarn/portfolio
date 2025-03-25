@@ -33,13 +33,13 @@ Welcome to my portfolio — a curated journey across high-voltage systems, embed
 <h2>Featured Highlights</h2>
 
 <ul>
-  <li><strong><a href="../experience/#crest-test-systems-pvt-ltd-aug-2021--jul-2023">High-Voltage Tester Design & Field Commissioning</a></strong> – Delivered 19+ test systems from prototyping to on-site deployment, integrating mechanical, electrical, and software interfaces for Tier-1 OEMs.</li>
+  <li><strong><a href="/portfolio/experience/#crest-test-systems-pvt-ltd-aug-2021--jul-2023">High-Voltage Tester Design & Field Commissioning</a></strong> – Delivered 19+ test systems from prototyping to on-site deployment, integrating mechanical, electrical, and software interfaces for Tier-1 OEMs.</li>
 
-  <li><strong><a href="../experience/#university-of-southern-california--baum-family-maker-space">Digital Fabrication Process Automation</a></strong> – Automated scheduling, ticketing, and ERP planning for 3D printing operations; increased throughput by 5x using Trello, AppSheet, and Google Apps Script.</li>
+  <li><strong><a href="/portfolio/experience/#university-of-southern-california--baum-family-maker-space">Digital Fabrication Process Automation</a></strong> – Automated scheduling, ticketing, and ERP planning for 3D printing operations; increased throughput by 5x using Trello, AppSheet, and Google Apps Script.</li>
 
-  <li><strong><a href="../projects/#voicecad-ai--ai-driven-cad-system-sep-2024--dec-2024">VoiceCAD AI</a></strong> – Created an AI-driven design tool for CAD users with GTM strategy, revenue modeling, and technical architecture as part of an entrepreneurial capstone.</li>
+  <li><strong><a href="/portfolio/projects/#voicecad-ai--ai-driven-cad-system-sep-2024--dec-2024">VoiceCAD AI</a></strong> – Created an AI-driven design tool for CAD users with GTM strategy, revenue modeling, and technical architecture as part of an entrepreneurial capstone.</li>
 
-  <li><strong><a href="../projects/#expanding-oral-bs-modular-product-line-sep-2023--dec-2023">Oral-B Modular Expansion</a></strong> – Led modular hardware product strategy using MS Project, RACI planning, and stakeholder mapping for next-gen oral-care products.</li>
+  <li><strong><a href="/portfolio/projects/#expanding-oral-bs-modular-product-line-sep-2023--dec-2023">Oral-B Modular Expansion</a></strong> – Led modular hardware product strategy using MS Project, RACI planning, and stakeholder mapping for next-gen oral-care products.</li>
 
 </ul>
 

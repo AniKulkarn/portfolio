@@ -11,7 +11,7 @@ nav-order: 3
   University of Southern California – Viterbi School of Engineering
 </h3>
 
-<em>Aug 2024 – Present · Los Angeles, CA · Part-time</em>  
+<em>Aug 2024 – May 2025 · Los Angeles, CA · Part-time</em>  
 <em>Role: Graduate Teaching Assistant & Course Producer (ISE 544 – Leading and Managing Engineering Teams)</em>  
 <em>Academic leadership and instructional support for a graduate-level course on engineering leadership — 
 <a href="https://classes.usc.edu/term-20251/course/ise-544/" target="_blank">classes.usc.edu/term-20251</a></em>
@@ -54,7 +54,7 @@ nav-order: 3
   University of Southern California – Baum Family Maker Space
 </h3>
 
-<em>Jan 2024 – Present · Los Angeles, CA · Part-time</em>  
+<em>Jan 2024 – May 2025 · Los Angeles, CA · Part-time</em>  
 <em>Role: Digital Fabrication Solution Architect (Student Worker)</em>  
 <em>A design and fabrication center for use by students in the USC Viterbi School of Engineering — 
 <a href="https://viterbiundergrad.usc.edu/bfms/" target="_blank">viterbiundergrad.usc.edu/bfms/</a></em>

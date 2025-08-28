@@ -53,5 +53,5 @@ Welcome to my portfolio — a curated journey across high-voltage systems, embed
 <ul>
   <li><strong>Email:</strong> <a href="mailto:ackulkar@usc.edu">ackulkar@usc.edu</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/anikulkarn/" target="_blank">Anish Kulkarni</a></li>
-  <li><strong>1:1 Appointment:</strong> <a href="https://calendar.app.google/iDX8jh92Hv3chcAx7" target="_blank">Google Calendar blocker for Anish</a></li>
+  <li><strong>1:1 Appointment:</strong> <a href="https://calendar.app.google/8ihZEcjhoSxbyGY18" target="_blank">Google Calendar scheduler for Anish</a></li>
 </ul>
